@@ -6,4 +6,3 @@
  * Tipos de datos
  * Secuencias
  * Estructuras de control
- * funciones
